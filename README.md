@@ -71,4 +71,5 @@ Trust calibration techniques (citations, confidence cues)
 **🤝 Team**
 
 Yen Vu Thi Ngoc • Rui Liu • Hande Gürsoy
+
 Supervisors: Prof. Dr. Jochen Hartmann & Jan Ole Krugmann
