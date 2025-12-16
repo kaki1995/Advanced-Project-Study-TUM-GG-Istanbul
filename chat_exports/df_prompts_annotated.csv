@@ -1,0 +1,144 @@
+participant_id,prompt,query_sequence_number,word_count,char_count,word_bin,query_style,is_comparative,is_question,structure_category,has_brand,has_price,has_comparison,has_evaluative,has_review,has_technical
+090b95b5-f52a-4e45-8665-1cc819388638,What is a realistic phone when it comes to cost to quality ratio,1,13,64,13-15,natural-language,False,True,question-based,False,True,False,True,False,False
+0ba4f0a8-673f-4054-80e0-690aaf497b51,What phones are currently available on the market gives me good results for not too much money?,1,17,95,16-20,natural-language,False,True,question-based,False,True,False,True,False,False
+0ba4f0a8-673f-4054-80e0-690aaf497b51,give me prices in euros,5,5,23,4-6,natural-language,False,False,keyword-search,False,False,False,False,False,False
+0ba4f0a8-673f-4054-80e0-690aaf497b51,give the lowest price you can find for the apple Iphone 17 pro max and a link to buying it,4,20,90,16-20,natural-language,False,False,keyword-search,True,True,False,False,False,False
+0ba4f0a8-673f-4054-80e0-690aaf497b51,"no, i mean tell me about (for the phones you mentionned above, and compare and contrast them for best overall): Brand and model, Storage capacity (optional), Color (optional), Lowest price you found, Link to the shopping website",3,37,228,20+,natural-language,True,True,comparative,False,True,True,True,False,True
+0ba4f0a8-673f-4054-80e0-690aaf497b51,tell me about: Brand and model Storage capacity (optional) Color (optional) Lowest price you found Link to the shopping website,2,20,127,16-20,natural-language,False,True,question-based,False,True,False,False,False,True
+0e8e279b-2364-4850-9f67-b682817f8378,"between these models: Xiaomi Poco X7 Pro, Xiaomi Redmi Note 14 Pro 5G, Motorola Moto G86 5G, Samsung Galaxy A15 5G and Xiaomi Redmi Note 13, which one has the best camera, which one can last longe and which one have the worst comment in forums",2,46,243,20+,natural-language,False,True,question-based,True,False,True,True,False,True
+0e8e279b-2364-4850-9f67-b682817f8378,give me a link to buy Xiaomi Poco X7 Pro,4,10,40,10-12,natural-language,False,False,keyword-search,True,False,False,False,False,False
+0e8e279b-2364-4850-9f67-b682817f8378,give me smartphone models with a price below 299 euros that can be purchased in Germany with the highest price-to-quality ratio,1,21,127,20+,natural-language,False,False,keyword-search,False,True,False,True,False,False
+0e8e279b-2364-4850-9f67-b682817f8378,give me the technical details for Xiaomi Poco X7 Pro,3,10,52,10-12,natural-language,False,False,keyword-search,True,False,False,False,False,False
+145a5e3a-5d68-4457-9cc1-eaffd6662734,Give me the link for the 399 offer,4,8,34,7-9,natural-language,False,False,keyword-search,False,False,False,False,False,False
+145a5e3a-5d68-4457-9cc1-eaffd6662734,"I want the following smartphone, cheap, very good memory capacity, and good camera resulition",2,14,93,13-15,natural-language,False,False,keyword-search,False,True,False,True,False,True
+145a5e3a-5d68-4457-9cc1-eaffd6662734,"I want the google pixel 9a give me please the Color avavilables, the best price and a website where I can find it at is cheapest",3,26,128,20+,natural-language,False,True,question-based,True,True,True,True,False,False
+145a5e3a-5d68-4457-9cc1-eaffd6662734,"I want the google pixel 9a give me please the Color avavilables, the best price and a website where I can find it at is cheapest",3,26,128,20+,natural-language,False,True,question-based,True,True,True,True,False,False
+145a5e3a-5d68-4457-9cc1-eaffd6662734,Smartphones,1,1,11,1-3,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+151939c4-8aae-490b-92eb-c7d353a4a95c,I meant which of the phones you listed above you recommend?,6,11,59,10-12,natural-language,False,True,question-based,False,False,False,True,False,False
+151939c4-8aae-490b-92eb-c7d353a4a95c,"I need a phone around 700, I do not care if it is second-handed. But I want it clean, having a lot RAM, and a good CPU. What would be your recommendations with specific  characterictics and configs for this?",1,39,207,20+,natural-language,False,True,question-based,False,False,False,True,False,True
+151939c4-8aae-490b-92eb-c7d353a4a95c,"Now, compare the cameras of these phone. which one takes better selfies?",2,12,72,10-12,natural-language,True,True,comparative,False,False,True,False,False,False
+151939c4-8aae-490b-92eb-c7d353a4a95c,"all in all, which one do you recommend?",5,8,39,7-9,natural-language,False,True,question-based,False,False,False,True,False,False
+151939c4-8aae-490b-92eb-c7d353a4a95c,"compare the batteries, which one do you recomend? I dont wnat to charge my phone regularly",4,16,90,16-20,natural-language,True,True,comparative,False,False,True,False,False,False
+151939c4-8aae-490b-92eb-c7d353a4a95c,which ones do you recommend for gaming?,3,7,39,7-9,natural-language,False,True,question-based,False,False,False,True,False,False
+157bcbd1-0270-41ee-af9a-4211ed21ea7c,compare iphone 6 and 7,1,5,22,4-6,keyword-style,True,False,comparative,True,False,True,False,False,False
+18b17697-3a40-4604-ba57-75c836a01401,What is the best smartphone ever?,1,6,33,4-6,natural-language,False,True,question-based,False,False,True,True,False,False
+193a0563-b869-4bbe-aa9e-d81bacf59a3e,"Search for smartphones that have an excellent price-to-quality ratio, with a very good, high-level camera, great efficiency, and a long-lasting battery. I want you to compare prices among the brands and models you find. Take into account the recommendations from people who have purchased or used them.",2,47,302,20+,natural-language,True,False,comparative,False,True,True,True,False,True
+1940263c-44df-4d4e-99cc-30f9f694a859,iPhone 17 ,1,2,10,1-3,keyword-style,False,False,keyword-search,True,False,False,False,False,False
+1cde5bc6-87ef-4a39-87da-3e93c51cfffa,"I also need 2 sim cards, a good camera, a good memory and i dont want the phone to be too bşg",2,22,93,20+,natural-language,False,False,keyword-search,False,False,False,True,False,True
+1cde5bc6-87ef-4a39-87da-3e93c51cfffa,"I also need 2 sim cards, a good camera, a good memory and i dont want the phone to be too bşg",2,22,93,20+,natural-language,False,False,keyword-search,False,False,False,True,False,True
+1cde5bc6-87ef-4a39-87da-3e93c51cfffa,I am in need of a new smartphone since my current phone is almost dying as it has no memory left. I am a person who likes quality but it does not have ,1,33,151,20+,natural-language,False,False,keyword-search,False,False,False,True,False,True
+1cde5bc6-87ef-4a39-87da-3e93c51cfffa,Thank you that was quite helpful,3,6,32,4-6,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,Find the store with lowest price for Iphone 17 Pro 256 Deep Blue in Germany,4,15,75,13-15,natural-language,False,False,keyword-search,True,True,False,False,False,False
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,Find the store with lowest price for Iphone 17 Pro 256 Deep Blue in Germany,4,15,75,13-15,natural-language,False,False,keyword-search,True,True,False,False,False,False
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,Give me the link for IPhone 17 Pro Deep Blue 256GB. I want to buy directly from Apple in Germany ,6,20,97,16-20,natural-language,False,False,keyword-search,True,False,False,False,False,False
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,Price for IPhone 17 pro 256GB in Deep Blue,3,9,42,7-9,natural-language,False,False,keyword-search,True,True,False,False,False,False
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,Price for IPhone 17 pro 256GB in Deep Blue,3,9,42,7-9,natural-language,False,False,keyword-search,True,True,False,False,False,False
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,Price for IPhone 17 pro 256GB in Deep Blue,3,9,42,7-9,natural-language,False,False,keyword-search,True,True,False,False,False,False
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,Real competitors to Apple IPhone 17,1,6,35,4-6,keyword-style,False,False,keyword-search,True,False,False,False,False,False
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,Storage capacity and available colors for IPhone 17 Pro,2,9,55,7-9,natural-language,False,False,keyword-search,True,False,False,False,False,True
+21121fd2-00ef-4b2a-974f-823f26f3f7fd,What is the price if I order from Apple this configuration? ,5,11,60,10-12,natural-language,False,True,question-based,True,True,False,False,False,False
+248c1f6f-3b38-4411-a85c-8040a5a74f4d,How much is the latest bigme hibreak pro color,2,9,46,7-9,natural-language,False,True,question-based,False,False,False,False,False,False
+248c1f6f-3b38-4411-a85c-8040a5a74f4d,iPhone ,1,1,7,1-3,keyword-style,False,False,keyword-search,True,False,False,False,False,False
+25040da2-2cce-4925-9fbd-855669f4cb23,Apple iPhone refurbished,1,3,24,1-3,keyword-style,False,False,keyword-search,True,False,False,False,False,False
+25040da2-2cce-4925-9fbd-855669f4cb23,IPhone 13,2,2,9,1-3,keyword-style,False,False,keyword-search,True,False,False,False,False,False
+25040da2-2cce-4925-9fbd-855669f4cb23,Which is the best value iPhone to buy now,3,9,41,7-9,natural-language,False,True,question-based,True,True,True,True,False,False
+25e47297-047a-4582-bc17-c13f5b2ef07b,What is price of Iphone now?,2,6,28,4-6,natural-language,False,True,question-based,True,True,False,False,False,False
+25e47297-047a-4582-bc17-c13f5b2ef07b,"What phone would you suggest, something that does not break the bank, has good battery life and good camera",3,19,107,16-20,natural-language,False,True,question-based,False,False,False,True,False,True
+25e47297-047a-4582-bc17-c13f5b2ef07b,What smartphone has the longest battery?,1,6,40,4-6,natural-language,False,True,question-based,False,False,False,False,False,True
+2c298a5e-7070-4fd7-a6fe-ff3907029e8c,best Smartphones under 800,1,4,26,4-6,keyword-style,False,False,keyword-search,False,True,True,True,False,False
+2c298a5e-7070-4fd7-a6fe-ff3907029e8c,from idealo,6,2,11,1-3,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+2c298a5e-7070-4fd7-a6fe-ff3907029e8c,nothing phone vs pixel 9a,2,5,25,4-6,keyword-style,True,False,comparative,True,False,True,False,False,False
+2c298a5e-7070-4fd7-a6fe-ff3907029e8c,s25 buy,5,2,7,1-3,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+2c298a5e-7070-4fd7-a6fe-ff3907029e8c,s25 idealo,7,2,10,1-3,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+2c298a5e-7070-4fd7-a6fe-ff3907029e8c,s25 prices,4,2,10,1-3,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+2c298a5e-7070-4fd7-a6fe-ff3907029e8c,which is more of a compact phone,3,7,32,7-9,natural-language,False,True,question-based,False,False,False,False,False,False
+328a652b-9ad2-4b70-ad1a-49a8f1fcc02d,Hi tell me about the best phones i can buy with more than 800 euros,1,15,67,13-15,natural-language,False,True,question-based,False,False,True,True,False,False
+328a652b-9ad2-4b70-ad1a-49a8f1fcc02d,"i also want the iphone to be 256 gigs and pro version, above 800 euros",5,15,70,13-15,natural-language,False,False,keyword-search,True,False,False,False,False,False
+328a652b-9ad2-4b70-ad1a-49a8f1fcc02d,"i prefer the apple interface since i use a mac and its easier to connect, what models do u recommend now",2,21,104,20+,natural-language,False,True,question-based,True,False,False,True,False,False
+328a652b-9ad2-4b70-ad1a-49a8f1fcc02d,im looking for phones only,3,5,26,4-6,natural-language,False,False,keyword-search,False,False,False,False,False,False
+328a652b-9ad2-4b70-ad1a-49a8f1fcc02d,"only iphones , tell me the colors and give me some price preferences for each model",4,16,83,16-20,natural-language,False,True,question-based,False,True,False,False,False,False
+386be8d7-6771-4885-8745-e30399b113d0,I want the iphone 17 ,2,5,21,4-6,natural-language,False,False,keyword-search,True,False,False,False,False,False
+386be8d7-6771-4885-8745-e30399b113d0,What is the best smartphone in the high price range,1,10,51,10-12,natural-language,False,True,question-based,False,True,True,True,False,False
+386be8d7-6771-4885-8745-e30399b113d0,which color do I get the iphone 17 in?,4,9,38,7-9,natural-language,False,True,question-based,True,False,False,False,False,False
+386be8d7-6771-4885-8745-e30399b113d0,which dark color?,3,3,17,1-3,natural-language,False,True,question-based,False,False,False,False,False,False
+416d5225-0175-4c9d-964c-2998e2d7acb1,can you give me some recommendations about phones?,1,8,50,7-9,natural-language,False,True,question-based,False,False,False,False,False,False
+5210feaa-5c2a-4444-b912-dc52d88c72c5,can you provide prices of 15 pro natural titanium 256 in germany app store and amazon and compare prices ,3,19,105,16-20,natural-language,True,True,comparative,False,False,True,False,False,False
+5210feaa-5c2a-4444-b912-dc52d88c72c5,lets find 15 pro new with natueral color 256 gb storage. i only need new one and preferably on warrant ,2,20,103,16-20,natural-language,False,False,keyword-search,False,False,False,False,False,True
+5210feaa-5c2a-4444-b912-dc52d88c72c5,suppose you are professional tech reviewer and you need to choose good fitting phoe for my needs. ,1,17,98,16-20,natural-language,False,False,keyword-search,False,False,False,True,False,False
+548569b2-6aeb-4403-9dfe-4b84cd9cbf25,"Find me a smart phone priced about 150-200 euro, with a good processing speed, good capacity/storage",1,16,100,16-20,natural-language,False,False,keyword-search,False,True,False,True,False,True
+5ce7762a-639c-456b-9482-8f3d2c2094f9,"I want a recommendation on phone, budget max. 800 euro. I want to take good pictures, 256G min storage, show me the price of different phoneoptions",1,26,147,20+,natural-language,False,False,keyword-search,False,True,False,True,False,True
+5ce7762a-639c-456b-9482-8f3d2c2094f9,"I want iPhone 16 only, not other model. show me the link to the lowest channel",3,16,78,16-20,natural-language,False,False,keyword-search,True,False,False,False,False,False
+5ce7762a-639c-456b-9482-8f3d2c2094f9,"I want iPhone 16 only, not other model. show me the link to the lowest channel",3,16,78,16-20,natural-language,False,False,keyword-search,True,False,False,False,False,False
+5ce7762a-639c-456b-9482-8f3d2c2094f9,google and show me all possible buying options of Iphone 16,2,11,59,10-12,natural-language,False,False,keyword-search,True,False,False,False,False,False
+5f62d87d-4912-454b-94d1-309c26c16b08,Give me a list of current android smartphones in market right now. Make sure it has the latest Snapdrahon chipped and a 3 camera system.,1,25,136,20+,natural-language,False,False,keyword-search,False,False,False,False,False,True
+6e109541-c2ae-46ea-827a-edf44d67660e,"how much for iphone 14, is it better than ip 13 compare w price",1,14,63,13-15,natural-language,True,True,comparative,True,True,True,False,False,False
+76ca052a-413b-426f-bf8e-5bc80d00c05a,Pixel9a vs Samsung S23,4,4,22,4-6,keyword-style,True,False,comparative,True,False,True,False,False,False
+76ca052a-413b-426f-bf8e-5bc80d00c05a,Smart phone under £299,1,4,22,4-6,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+76ca052a-413b-426f-bf8e-5bc80d00c05a,Which smart phone is the best for photos?,2,8,41,7-9,natural-language,False,True,question-based,False,False,True,True,False,False
+76ca052a-413b-426f-bf8e-5bc80d00c05a,Which smart phone under £299 is best for photos ,3,9,48,7-9,natural-language,False,True,question-based,False,False,True,True,False,False
+88584cfe-a550-4209-a1f3-be628bb2647b,used iphone,1,2,11,1-3,keyword-style,False,False,keyword-search,True,False,False,False,False,False
+8a704f7e-d8ff-41c4-9b3e-59fcd5f499cc,the motorola has better support than Xiaomi?,2,7,44,7-9,natural-language,False,True,question-based,True,False,True,False,False,False
+8a704f7e-d8ff-41c4-9b3e-59fcd5f499cc,what is the price for this 2 options?,3,8,37,7-9,natural-language,False,True,question-based,False,True,False,False,False,False
+8a704f7e-d8ff-41c4-9b3e-59fcd5f499cc,"what smartphone do you recommend that is around 150 euros, that has good quality",1,14,80,13-15,natural-language,False,True,question-based,False,False,False,True,False,False
+8a704f7e-d8ff-41c4-9b3e-59fcd5f499cc,"what smartphone do you recommend that is around 150 euros, that has good quality",1,14,80,13-15,natural-language,False,True,question-based,False,False,False,True,False,False
+922bc86b-cd31-4f8c-8888-2478c91fbeeb,give me a number,7,4,16,4-6,natural-language,False,False,keyword-search,False,False,False,False,False,False
+922bc86b-cd31-4f8c-8888-2478c91fbeeb,how about the comments,3,4,22,4-6,natural-language,False,True,question-based,False,False,False,False,False,False
+922bc86b-cd31-4f8c-8888-2478c91fbeeb,i mean review or feedback from who bought,4,8,41,7-9,keyword-style,False,False,keyword-search,False,False,True,False,True,False
+922bc86b-cd31-4f8c-8888-2478c91fbeeb,"i wanna buy a smartphone, it must be green and at least 1 t, pls help me fid the best one and price is below 449, pls search for the best price",1,32,143,20+,natural-language,False,False,keyword-search,False,True,True,True,False,False
+922bc86b-cd31-4f8c-8888-2478c91fbeeb,search for the best price and give me the link,5,10,46,10-12,natural-language,False,False,keyword-search,False,True,True,True,False,False
+922bc86b-cd31-4f8c-8888-2478c91fbeeb,tell me more about **Nothing Phone (3a)**,2,7,41,7-9,natural-language,False,True,question-based,True,False,False,False,False,False
+922bc86b-cd31-4f8c-8888-2478c91fbeeb,what is the lowset price,6,5,24,4-6,natural-language,False,True,question-based,False,True,False,False,False,False
+9e7360ab-bdd9-40a7-a7f1-83fa542060b0,smartphone,1,1,10,1-3,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+a65764e7-9c2f-4219-aa12-fd54da7bf875,Can you tell me some information about new iPhone ,3,9,50,7-9,natural-language,False,True,question-based,True,False,False,False,False,False
+a65764e7-9c2f-4219-aa12-fd54da7bf875,Give me some suggestions for buying a new phone ,2,9,48,7-9,natural-language,False,False,keyword-search,False,False,False,False,False,False
+a65764e7-9c2f-4219-aa12-fd54da7bf875,Hi,1,1,2,1-3,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+a65764e7-9c2f-4219-aa12-fd54da7bf875,Where can I buy it,4,5,18,4-6,natural-language,False,True,question-based,False,False,False,False,False,False
+a65764e7-9c2f-4219-aa12-fd54da7bf875,Which colour and capacity do they have?,5,7,39,7-9,natural-language,False,True,question-based,False,False,False,False,False,False
+a7128b4a-e209-487c-844d-c485ecac85ec,What are the best value smartphones for 200€,1,8,44,7-9,natural-language,False,True,question-based,False,True,True,True,False,False
+b4dc7adf-e8db-4728-b4e3-9581f9be6651,i want to have high performing battery and good camera and want to buy the smartphone with 12 months installments,2,20,113,16-20,natural-language,False,False,keyword-search,False,False,False,True,False,True
+b4dc7adf-e8db-4728-b4e3-9581f9be6651,"provide a detailed comparison on different aspect between Google Pixel 8 Pro, Samsung Galaxy /S25 Ultra and Xiaomi 15 Ultra",3,20,123,16-20,natural-language,True,False,comparative,True,False,True,False,False,False
+b4dc7adf-e8db-4728-b4e3-9581f9be6651,what smartphone do you suggest with budget between 500 and 1000 euros,1,12,69,10-12,natural-language,False,True,question-based,False,True,False,False,False,False
+b4dc7adf-e8db-4728-b4e3-9581f9be6651,where can i buy Galaxy S25 Ultra with the best price/offer?,4,11,59,10-12,natural-language,False,True,question-based,True,True,True,True,False,False
+b5a7af15-f889-4b20-b58c-192fe764f0b6,What is the best smartphone?,1,5,28,4-6,natural-language,False,True,question-based,False,False,True,True,False,False
+b7a9b5f0-50fe-47ea-ac8a-f6ef1df7ba72,Middle class smartphone comparison,1,4,34,4-6,keyword-style,True,False,comparative,False,False,True,False,False,False
+b7a9b5f0-50fe-47ea-ac8a-f6ef1df7ba72,Provide that link to mobile shop for the Google pixel 9a please,3,12,63,10-12,natural-language,False,False,keyword-search,True,False,False,False,False,False
+b7a9b5f0-50fe-47ea-ac8a-f6ef1df7ba72,Since the top recommendation is the Google pixel 9a find a supplier within Europe with cheap prize and delivery ,2,19,112,16-20,natural-language,False,False,keyword-search,True,True,False,True,False,False
+bb7758ff-4018-4589-9209-4c9d1cfb3556,How would you rate the phones based on performance?,4,9,51,7-9,natural-language,False,True,question-based,False,False,False,False,False,False
+bb7758ff-4018-4589-9209-4c9d1cfb3556,What are the price for the best apple phone and what are the color options and the storage,5,18,90,16-20,natural-language,False,True,question-based,True,True,True,True,False,True
+bb7758ff-4018-4589-9209-4c9d1cfb3556,What is the newest Modell,1,5,25,4-6,natural-language,False,True,question-based,False,False,False,False,False,False
+bb7758ff-4018-4589-9209-4c9d1cfb3556,Which has the most storage?,3,5,27,4-6,natural-language,False,True,question-based,False,False,False,False,False,True
+bb7758ff-4018-4589-9209-4c9d1cfb3556,Which is reviewed the best for the camera?,2,8,42,7-9,natural-language,False,True,question-based,False,False,True,True,False,True
+cb9660a8-d526-4241-8700-235ce3e07153,Latest Samsung smartphones,1,3,26,1-3,keyword-style,False,False,keyword-search,True,False,False,False,False,False
+cb9660a8-d526-4241-8700-235ce3e07153,What is the difference between S24 and S25 in terms of feature,2,12,62,10-12,natural-language,True,True,comparative,False,False,True,False,False,False
+cb9660a8-d526-4241-8700-235ce3e07153,What is the price difference? ,3,5,30,4-6,natural-language,False,True,question-based,False,True,True,False,False,False
+cb9660a8-d526-4241-8700-235ce3e07153,What is the price of S24 black,4,7,30,7-9,natural-language,False,True,question-based,False,True,False,False,False,False
+cb9660a8-d526-4241-8700-235ce3e07153,What is the price of S24 black,4,7,30,7-9,natural-language,False,True,question-based,False,True,False,False,False,False
+d7c7e6ac-408e-462d-8c9a-5f27b58b5aa8,"I need a smartphone under 600 euros, I am using iphone 15 pro right now and I like it, so I want something similar but cheaper. I want a good camera. big stora",1,33,159,20+,natural-language,False,False,keyword-search,True,True,False,True,False,True
+d7c7e6ac-408e-462d-8c9a-5f27b58b5aa8,Motorola Edge 60 Pro. What storage options does this one have and for what prices?,2,15,82,13-15,natural-language,False,True,question-based,True,False,False,False,False,True
+de565c32-62e7-4659-92f7-bfd80fc0a61c,I'm not interested on Pixel 9a I want the most premium phones give the prices of these phones ,2,18,94,16-20,natural-language,False,False,keyword-search,True,False,False,False,False,False
+de565c32-62e7-4659-92f7-bfd80fc0a61c,Provide with videos about these phones,4,6,38,4-6,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+de565c32-62e7-4659-92f7-bfd80fc0a61c,Which are the storage capacity for these phones and the camera features ,3,12,72,10-12,natural-language,False,True,question-based,False,False,False,False,False,True
+de565c32-62e7-4659-92f7-bfd80fc0a61c,Which is the smarthphone with better features and a good trade-off between price and characteristics available in the market ,1,19,125,16-20,natural-language,False,True,question-based,False,True,True,True,False,False
+e2f70344-8588-468c-9dc2-8c2993f5b6c9,Give me options for a new Iphone and tell about the prices and fuctions,1,14,71,13-15,natural-language,False,False,keyword-search,True,False,False,False,False,False
+e2f70344-8588-468c-9dc2-8c2993f5b6c9,i also want to see iphones 14 and 15,2,9,36,7-9,natural-language,False,False,keyword-search,False,False,False,False,False,False
+e483224e-1a8b-49ed-8bd7-42e5478ff6b0,what is the best but cheap phone,1,7,32,7-9,natural-language,False,True,question-based,False,True,True,True,False,False
+e755ba77-40fc-4737-b6f4-077633acb963,How much is it(256GB),2,4,21,4-6,natural-language,False,True,question-based,False,False,False,False,False,False
+e755ba77-40fc-4737-b6f4-077633acb963,I’m looking for a smartphone with iOS system and better visual performance ,1,12,75,10-12,natural-language,False,False,keyword-search,False,False,True,False,False,False
+e9a313e1-1c7e-4546-9f45-cb2354489190,Could you compare prices too. I need the best price for quality one,2,13,67,13-15,natural-language,True,True,comparative,False,True,True,True,False,False
+e9a313e1-1c7e-4546-9f45-cb2354489190,For 1 TB version and Black?,5,6,27,4-6,natural-language,False,True,question-based,False,False,False,False,False,True
+e9a313e1-1c7e-4546-9f45-cb2354489190,For Galaxy S25 ultra what is the reliable lowest price in the market in Germany,4,15,79,13-15,natural-language,False,True,question-based,True,True,False,False,False,False
+e9a313e1-1c7e-4546-9f45-cb2354489190,How much euros is 1199 usd,8,6,26,4-6,natural-language,False,True,question-based,False,False,False,False,False,False
+e9a313e1-1c7e-4546-9f45-cb2354489190,How much is the 1TB titanium Black,6,7,34,7-9,natural-language,False,True,question-based,False,False,False,False,False,False
+e9a313e1-1c7e-4546-9f45-cb2354489190,I need a new flagship phone which has a great sensor and a camera. It should have one of the biggest screen on the market and the brand should be a reliable one. I need it to be delivered to Germany with regulations accordingly. I like easy UI and UX sand the phone should have at least 256GB of storage,1,60,303,20+,natural-language,False,True,question-based,False,False,False,True,False,True
+e9a313e1-1c7e-4546-9f45-cb2354489190,I need it in euros,7,5,18,4-6,natural-language,False,False,keyword-search,False,False,False,False,False,False
+e9a313e1-1c7e-4546-9f45-cb2354489190,Provide me the prices for these phones,3,7,38,7-9,keyword-style,False,False,keyword-search,False,False,False,False,False,False
+e9a313e1-1c7e-4546-9f45-cb2354489190,Where can i find the cheapest titanium black 1 tb titanium black Samsung Galaxy S25 Ultra in Germany?,10,18,101,16-20,natural-language,False,True,question-based,True,False,False,False,False,True
+e9a313e1-1c7e-4546-9f45-cb2354489190,Where can i find the cheapest titanium black 1 tb titanium black Samsung Galaxy S25 Ultra?,9,16,90,16-20,natural-language,False,True,question-based,True,False,False,False,False,True
+eb2efe5b-53d6-4751-9ba5-2004d1234e28,Are any of those options in my price range? Below 300 euro?,2,12,59,10-12,natural-language,False,True,question-based,False,True,False,False,False,False
+eb2efe5b-53d6-4751-9ba5-2004d1234e28,Can you provide a link to Xiaomi phone with that price and the model name?,3,15,74,13-15,natural-language,False,True,question-based,True,True,False,False,False,False
+eb2efe5b-53d6-4751-9ba5-2004d1234e28,What has the best camera?,1,5,25,4-6,natural-language,False,True,question-based,False,False,True,True,False,True
+f668df6c-a949-40d0-8ff9-840a65e676a2,What about the Pixel 9 vs older models?,2,8,39,7-9,natural-language,True,True,comparative,True,False,True,False,False,False
+f668df6c-a949-40d0-8ff9-840a65e676a2,What is the best smartphone for my budget that is reliable and has good features? Find me the best 3 or 4 to compare.,1,24,117,20+,natural-language,True,True,comparative,False,True,True,True,False,False
+faab30af-69f5-4422-bab2-0387d01d8765,Show me smartsphone which are in my budget and give me comprehensive analysis of the pros and cons. Don't  select  any bad phone according to reviews,1,26,149,20+,natural-language,False,True,question-based,False,True,False,False,True,False
+fe4a79bb-642e-49d8-920a-a5f39035ffe3,"i am a gen z that is currently in the apple ecosystem (mac, ipad, apple watch, airpods, iphone) which phone model would be the best for me rn my phone is running out of syotage and very outdated i am using the 12pro right now, should i wait for the 18 or just take the 16?  since 17 is very bad i dont think its for me",1,67,318,20+,natural-language,False,True,question-based,True,False,True,True,False,False
+fe4a79bb-642e-49d8-920a-a5f39035ffe3,in euros? iphone 16 pro price,2,6,29,4-6,natural-language,False,True,question-based,True,True,False,False,False,False
